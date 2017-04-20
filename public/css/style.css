@@ -135,7 +135,7 @@ banner
     background-color: rgba(12, 184, 182) !important;
 }
 #banner{
-	background: url('../img/phone.jpg') no-repeat fixed;
+	background: url('../img/girlPhone.jpg') no-repeat fixed;
 	background-size: cover;
 	min-height: 650px;
 	position: relative;
